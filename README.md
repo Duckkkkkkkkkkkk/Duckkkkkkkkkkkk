@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -27,7 +27,6 @@
 ###
 
 <p align="center">
-  <!-- Counter -->
+  Visitors:
   <img src="https://count.getloli.com/get/@Duckkkkkkkkkkkk?theme=moebooru">
 </p>
-###
