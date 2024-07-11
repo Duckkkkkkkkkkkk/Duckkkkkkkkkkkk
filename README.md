@@ -37,6 +37,6 @@
 
 <p align="center">
   <!-- Counter -->
-  <img src="https://count.getloli.com/get/@zZHorizonZz?theme=moebooru">
+  <img src="https://count.getloli.com/get/@Duckkkkkkkkkkkk?theme=moebooru">
 </p>
 ###
