@@ -2,11 +2,23 @@
 
 ###
 
-<img align="right" height="112" src="[https://tenor.com/ddKbdVcU3Ot.gif](https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif)"  />
+<img align="right" height="400" src="https://github.com/Duckkkkkkkkkkkk/Duckkkkkkkkkkkk/assets/119291792/fb042701-bc91-4bf3-bafd-d047e6566182" />
 
 ###
 
-<div align="center">
+<h3 align="left">🦆  About Me</h3>
+
+###
+
+<p align="left">- 🦆 I’m currently learning React, Angular, TypeScript, and advanced JavaScript.<br>- 🦆 I’m currently working on improving my skills in frontend development by building various projects.<br>- 🦆 I really love ducks.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -26,7 +38,10 @@
 
 ###
 
-<p align="center">
-  Visitors:
+<h3 align="left">🦆 Visitors</h3>
+
+###
+
+<p align="left">
   <img src="https://count.getloli.com/get/@Duckkkkkkkkkkkk?theme=moebooru">
 </p>
