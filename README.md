@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="400" src="https://github.com/Duckkkkkkkkkkkk/Duckkkkkkkkkkkk/assets/119291792/fb042701-bc91-4bf3-bafd-d047e6566182" />
+<img align="right" height="550" src="https://github.com/Duckkkkkkkkkkkk/Duckkkkkkkkkkkk/assets/119291792/fb042701-bc91-4bf3-bafd-d047e6566182" />
 
 ###
 
@@ -45,3 +45,15 @@
 <p align="left">
   <img src="https://count.getloli.com/get/@Duckkkkkkkkkkkk?theme=moebooru">
 </p>
+
+###
+
+<h3 align="left">🦆 Contacts</h3>
+
+###
+
+<a href="mailto:alkim345@mail.com">
+<img src="https://img.shields.io/badge/email%20me-5984C1?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</div>
+
