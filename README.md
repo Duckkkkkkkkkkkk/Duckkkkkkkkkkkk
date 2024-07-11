@@ -26,16 +26,17 @@
 
 ###
 
-<div align="left">
-  <a href="duckkkkkkkkkkkkkkkkkkkkk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="alkim345@mail.ru" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Duckkkkkkk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<p align="center">
+  Feel free to take a look at my projects, and if you have any questions or just want to say hi, don't hesitate to reach out to me!
+</p>
 
+<p align="center">
+  <!-- Metrics -->
+  <img src="https://github.com/zZHorizonZz/zZHorizonZz/blob/main/github-metrics.svg">
+</p>
+
+<p align="center">
+  <!-- Counter -->
+  <img src="https://count.getloli.com/get/@zZHorizonZz?theme=moebooru">
+</p>
 ###
