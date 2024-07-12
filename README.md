@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="400" src="https://github.com/Duckkkkkkkkkkkk/Duckkkkkkkkkkkk/assets/119291792/fb042701-bc91-4bf3-bafd-d047e6566182" />
+<img align="right" height="450" src="https://github.com/user-attachments/assets/72411d5c-666b-4f9f-831b-71bbac2817d1" />
+
 
 ###
 
